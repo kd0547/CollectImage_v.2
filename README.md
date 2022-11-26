@@ -1,1 +1,1 @@
-# CollectImage_v.2
+# CollectImage_v.2(공개용)
