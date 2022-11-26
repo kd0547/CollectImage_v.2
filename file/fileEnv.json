@@ -1,0 +1,11 @@
+{
+    "type": ".jpg",
+    "encoding":"utf8",
+    "url" : {
+        "save_file" : "D:\\Develop/crawling/src/file/saveLog.json",
+        "location" : "G:\\modelDB/",
+        "error" :"",
+        "save" : ""
+    }
+    
+}
