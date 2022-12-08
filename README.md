@@ -1,11 +1,9 @@
 ### 🔗 GitHub
 
 **이전 버전** 
-
- **현재 버전** 
-
 [https://github.com/kd0547/CollectImage_v.1](https://github.com/kd0547/CollectImage_v.1)
 
+ **현재 버전** 
 [https://github.com/kd0547/CollectImage_v.2](https://github.com/kd0547/CollectImage_v.2)
 
 ### ⭐ 주요 기능
