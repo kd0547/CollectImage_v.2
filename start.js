@@ -104,7 +104,7 @@ async function isSaveFile(searchURL, searchName) {
 
 
     /**
-     * 데이터 1차 수집 - 메인 페이지에서 이미지 제목,태그, URL을 수집과 모델,회사를 비교해 블랙리스트를 조회 후 제거 > JSON 변환 
+     * 데이터 1차 수집 - 메인 페이지에서 이미지 제목,태그, URL을 수집, 블랙리스트를 조회 후 제거 > JSON 변환 
      */
 
     console.time('collection_endTime');
