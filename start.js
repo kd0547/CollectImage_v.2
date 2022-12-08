@@ -47,8 +47,6 @@ function removeBlacklistModel(pageJSON) {
     var countPageJSON = pageJSON.length;
 
 
-    //console.log(blacklistModel.model);
-
     for (var i = 0; i < countPageJSON; i++) {
         var eq = pageJSON[i].attr.model;
 
